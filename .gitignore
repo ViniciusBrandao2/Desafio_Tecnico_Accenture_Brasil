@@ -1,6 +1,5 @@
-seu-projeto/
-├── .gitignore   ← AQUI
-├── package.json
-├── cypress.config.js
-├── cypress/
-└── node_modules/
+node_modules/
+cypress/videos/
+cypress/screenshots/
+.env
+.DS_Store
