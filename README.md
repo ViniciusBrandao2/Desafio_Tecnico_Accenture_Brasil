@@ -43,5 +43,3 @@ Este projeto demonstra a aplicação prática de:
 O foco foi entregar uma solução funcional, organizada e alinhada às boas práticas de QA Automation, conforme proposto no desafio técnico.
 
 Grato.
-npm install
-npx cypress open
